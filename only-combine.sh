@@ -40,7 +40,7 @@ REF_ISO_PROFILE_REPO_ARCHIVE_EXTRACT_DIR_NAME="ubuntu-iso-builder-next-template-
 ## ## Path / Work Dir
 ##
 
-REF_WORK_DIR_PATH="${HOME}/work/ubuntu-iso-builder-import-pacstall-xfce-attach-themes"
+REF_WORK_DIR_PATH="${HOME}/work/ubuntu-iso-builder-next-import-pacstall-xfce-attach-themes"
 
 
 
@@ -119,7 +119,7 @@ cp -rfT "${REF_COMBINE_SOURCE_DIR_PATH}" "${REF_COMBINE_TARGET_DIR_PATH}"
 echo
 echo "[OK]: Combine OK"
 #echo "[Next Step]: cd ${REF_COMBINE_TARGET_DIR_PATH}"
-echo "[Next Step]: cd ~/work/ubuntu-iso-builder-import-pacstall-xfce-attach-themes/iso-profile
+echo "[Next Step]: cd ~/work/ubuntu-iso-builder-next-import-pacstall-xfce-attach-themes/iso-profile
 "
 echo
 
